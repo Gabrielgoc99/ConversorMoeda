@@ -1,0 +1,9 @@
+.converter-div {
+  width: 100%;
+  padding: 5px;
+}
+
+.converter-div mat-form-field {
+  padding: 5px;
+  background-color: black;
+}
